@@ -1,2 +1,9 @@
 # landing-page-com-grid-agencia-xyz
-Estrutura inicial do Projeto de Landing Page com Grid do curso DevQuest.
+Estrutura do Projeto de Landing Page com Grid do curso DevQuest.
+## Tecnologias utilizadas 
+- HTML
+- CSS
+ 
+---
+## Veja o resultado no link abaixo:
+ https://ivanclourenco.github.io/landing-page-com-grid-agencia-xyz-main/
