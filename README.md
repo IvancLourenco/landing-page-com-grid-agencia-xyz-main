@@ -1,5 +1,5 @@
 # landing-page-com-grid-agencia-xyz
-Estrutura do Projeto de Landing Page com Grid do curso DevQuest.
+Estrutura do Projeto de Landing Page com Grid e flexbox
 ## Tecnologias utilizadas 
 - HTML
 - CSS
